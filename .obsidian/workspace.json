@@ -11,10 +11,14 @@
             "id": "a4f6b7006102790f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Homework Codes/Project Proposal/proposal_Roberts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "proposal_Roberts"
             }
           }
         ]
@@ -181,10 +185,10 @@
   },
   "active": "a4f6b7006102790f",
   "lastOpenFiles": [
+    "assignments/project_proposal.md",
     "In Class Notes/HWRS 640 Questions - 03-06-26.md",
     "Dask.md",
     "Pasted image 20260306114442.png",
-    "assignments/project_proposal.md",
     "assignments/assignment_01.md",
     "notebooks/deep_learning/2_practical_considerations.ipynb",
     "assignments/assignment_02.md",

@@ -1,0 +1,3 @@
+# Proposal feedback
+
+Overall I like this idea and know it fits into your current research while still extending it with the PCA/EOF analysis. I think it will be interesting to include the multiple variables as you suggest, but you will need to be sure to be careful in how you stack the variables together for computing the SVD. Another thing you may consider is whether or not you can do some sort of seasonal pattern analysis, perhaps looking at winter rains vs NAM patterns.
